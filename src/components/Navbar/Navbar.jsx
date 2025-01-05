@@ -23,7 +23,7 @@ const Navbar = () => {
         <a href="#">Explore</a>
       </li>
     </>
-  );
+    );
 
   return (
     <div>

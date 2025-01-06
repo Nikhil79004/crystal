@@ -9,7 +9,7 @@ import Slider from "./Slider/Slider";
 
 function App() {
   return (
-    <div className="bg-gradient-to-r from-slate-300 to-slate-500">
+    <div className="bg-gradient-to-r from-slate-400 to-slate-500">
     <Navbar/>
     <Mid/>
     <Product/>
